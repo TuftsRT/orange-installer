@@ -1,0 +1,33 @@
+name: Orange
+version: 3.32.0
+company: "Tufts University"
+
+channels:
+  - conda-forge
+  - tufts
+
+conda_default_channels:
+  - conda-forge
+  - tufts
+
+specs:
+  - conda
+  - orange3 3.32.0
+  - orange-shortcut 1.0
+  - miniforge_console_shortcut 2.0
+
+user_requested_specs:
+  - orange3 3.32.0
+  - orange-shortcut 1.0
+  - miniforge_console_shortcut 2.0
+
+installer_type: exe
+license_file: LICENSE
+icon_image: orange.ico
+default_image_color: red
+
+initialize_by_default: False
+register_python_default: False
+check_path_length: True
+check_path_spaces: True
+write_condarc: True
