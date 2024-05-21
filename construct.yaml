@@ -3,12 +3,11 @@ version: 3.36.2
 company: "Tufts University"
 
 channels:
-  - conda-forge
   - tufts
+  - conda-forge
 
 conda_default_channels:
   - conda-forge
-  - tufts
 
 specs:
   - conda
