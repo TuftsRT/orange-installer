@@ -1,5 +1,5 @@
 name: Orange
-version: 3.35.0
+version: 3.36.2
 company: "Tufts University"
 
 channels:
@@ -12,12 +12,12 @@ conda_default_channels:
 
 specs:
   - conda
-  - orange3 3.35.0
+  - orange3 3.36.2
   - orange-shortcut 1.0
   - miniforge_console_shortcut 2.0
 
 user_requested_specs:
-  - orange3 3.35.0
+  - orange3 3.36.2
   - orange-shortcut 1.0
   - miniforge_console_shortcut 2.0
 
