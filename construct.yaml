@@ -1,5 +1,5 @@
 name: Orange
-version: 3.36.2
+version: 3.37.0
 company: "Tufts University"
 
 channels:
@@ -12,7 +12,7 @@ specs:
   - menuinst < 2.0.0
   - miniforge_console_shortcut 2.0
   - orange-shortcut 1.0
-  - orange3 3.36.2
+  - orange3 3.37.0
 
 condarc:
   channels:
