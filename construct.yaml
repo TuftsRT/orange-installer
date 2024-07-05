@@ -38,6 +38,7 @@ condarc:
   solver: libmamba
 
 installer_type: exe
+post_install: postinstall.bat
 license_file: LICENSE
 icon_image: orange.ico
 default_image_color: red
