@@ -9,6 +9,7 @@ channels:
 specs:
   - conda
   - conda-libmamba-solver
+  - menuinst < 2.0.0
   - miniforge_console_shortcut 2.0
   - orange-shortcut 1.0
   - orange3 3.36.2
