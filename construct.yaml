@@ -12,7 +12,23 @@ specs:
   - menuinst < 2.0.0
   - miniforge_console_shortcut 2.0
   - orange-shortcut 1.0
+  - orange-spectroscopy
   - orange3 3.37.0
+  - orange3-associate
+  - orange3-bioinformatics
+  - orange3-educational
+  - orange3-explain
+  - orange3-fairness
+  - orange3-geo
+  - orange3-imageanalytics
+  - orange3-network
+  - orange3-prototypes
+  - orange3-singlecell
+  - orange3-survival-analysis
+  - orange3-text
+  - orange3-textable
+  - orange3-timeseries
+  - orange3-worldhappiness
 
 condarc:
   channels:
