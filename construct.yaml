@@ -1,5 +1,5 @@
 name: Orange
-version: 3.37.0
+version: 3.39.0
 company: "Tufts University"
 
 channels:
@@ -13,7 +13,7 @@ specs:
   - miniforge_console_shortcut 2.0
   - orange-shortcut 1.0
   - orange-spectroscopy
-  - orange3 3.37.0
+  - orange3 3.39.0
   - orange3-associate
   - orange3-bioinformatics
   - orange3-educational
